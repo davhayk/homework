@@ -3,8 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	Company a = new Company(); // Pahanjum A and B a, bayc en ory asiq vor objectneri anuny mecatarov chdnem
-	Company b = new Company(); // nenc vor iranq menak sout-um en A and B ( im vra el azdecin eli kesic mecatarery )
+	Company a = new Company();
+	Company b = new Company();
 	Person aram = new Person();
 	    aram.name = "Aram";
 	    aram.balance = 500;
